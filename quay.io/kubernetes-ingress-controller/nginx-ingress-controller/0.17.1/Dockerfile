@@ -1,3 +1,3 @@
-FROM quay.iokubernetes-ingress-controllernginx-ingress-controller0.17.1
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.17.1
 
 MAINTAINER lsf
