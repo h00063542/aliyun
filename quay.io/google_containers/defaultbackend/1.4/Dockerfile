@@ -1,0 +1,3 @@
+FROM gcr.iogoogle_containersdefaultbackend1.4
+
+MAINTAINER lsf
